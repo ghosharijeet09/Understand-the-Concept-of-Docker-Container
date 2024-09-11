@@ -48,7 +48,7 @@ Materials and Equipment:
 - Using the command sudo docker logs exp2-frontend-1 where exp2-frontend-1 is the <container-name>
   ![image](https://github.com/user-attachments/assets/31316b40-b642-466e-ab1d-427d7c2992e8)
 6. Ctrl+ click on the link to see the app running in the browser using the containers
-  ![image](https://github.com/user-attachments/assets/8f025ebe-01e8-404c-aec2-e1703902079f)
+  ![image](https://github.com/user-attachments/assets/eae56fc1-4487-4a28-ad25-e70465a66371)
 7. Stop the Docker Container and Remove the container
 - Stop the container with `docker stop <container-name>`
 - Remove the stopped container using `docker rm <container-name>`.
